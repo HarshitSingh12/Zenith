@@ -1,0 +1,35 @@
+Contributions file for SER 502 Project - Team 15
+
+Rahul Manoj
+- Achieved
+  - Writing grammar rules
+  - Writing grammar for ANTLR
+  - Writing python Listener code
+  - Writing python Runner file
+  - Writing presentation 
+
+Harshit Singh
+- Achieved
+  - Writing grammar rules
+  - Writing grammar for ANTLR
+  - Writing python Listener code
+  - Writing python Runner file
+  - Writing presentation 
+
+Arvind Anand
+- Achieved
+  - Writing grammar rules
+  - Writing grammar for ANTLR
+  - Writing python Listener code
+  - Writing python Runner file
+  - Writing presentation 
+
+Akash Vijayasarathy
+- Achieved
+  - Writing grammar rules
+  - Writing grammar for ANTLR
+  - Writing python Listener code
+  - Writing python Runner file
+  - Writing presentation 
+
+
